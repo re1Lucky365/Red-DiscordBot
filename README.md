@@ -133,3 +133,5 @@ Bot Project.
 This project vendors [discord.ext.menus](https://github.com/Rapptz/discord-ext-menus) package made by Danny Y. (Rapptz) which is distributed under MIT License.
 A copy of this license can be found in the [discord-ext-menus.LICENSE](redbot/vendored/discord-ext-menus.LICENSE) file in the [redbot/vendored](redbot/vendored) folder of this repository.
 https://github.com/kpopdevREADME.md
+README.md
+adpsnake7@gmail.com
